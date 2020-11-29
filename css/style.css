@@ -1,0 +1,52 @@
+table.cart {
+    border-collapse: collapse;
+    border: 1ps solid gray;
+}
+
+table.cart td {
+    border: 2px solid gray;
+    padding: 5px 10px;
+    text-align: center;
+}
+
+table.cart img {
+    width: 48px;
+}
+
+table.cart span.total {
+    font-weight: 800;
+}
+
+.goods img {
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+    max-height:  222px;
+}
+
+.goods h2 {
+    font-size: 22px;
+    margin: 0 0 20px 0;
+    line-height: 100%;
+}
+ 
+
+.goods .package.featured p.price {
+    font-size: 16px;
+    font-weight: 800;
+    margin: 20px 0;
+}
+.button{
+    background: rgb(238, 166, 140);
+    border: 1px solid rgb(147, 206, 147);
+}
+.goodsExs{
+    border: 2px solid firebrick;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+.price{
+    font-size: 18px;
+    /* text-transform: uppercase; */
+}
